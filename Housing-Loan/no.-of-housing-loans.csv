@@ -1,0 +1,56 @@
+,,,,,
+"Count of Housing Loans Advanced by National Housing Corporation by County, 2016/17-2017/18",,,,,
+"Kenya National Bureau of Statistics, 2019",,,,,
+https://www.knbs.or.ke/download/economic-survey-2019/,,,,,
+,,,,,
+geo_level,geo_code,geo_version,county,year,total
+county,39,,Bungoma,2016,4
+county,39,,Bungoma,2017,1
+county,40,,Busia,2016,1
+county,40,,Busia,2017,0
+county,14,,Embu,2016,0
+county,14,,Embu,2017,1
+county,43,,Homa Bay,2016,1
+county,43,,Homa Bay,2017,0
+county,34,,Kajiado,2016,7
+county,34,,Kajiado,2017,4
+county,37,,Kakamega,2016,3
+county,37,,Kakamega,2017,0
+country,KE,,Kenya,2016,73
+country,KE,,Kenya,2017,46
+county,22,,Kiambu,2016,10
+county,22,,Kiambu,2017,5
+county,20,,Kirinyaga,2016,1
+county,20,,Kirinyaga,2017,2
+county,45,,Kisii,2016,2
+county,45,,Kisii,2017,0
+county,42,,Kisumu,2016,3
+county,42,,Kisumu,2017,2
+county,15,,Kitui,2016,0
+county,15,,Kitui,2017,2
+county,5,,Lamu,2016,5
+county,5,,Lamu,2017,0
+county,16,,Machakos,2016,6
+county,16,,Machakos,2017,8
+county,17,,Makueni,2016,0
+county,17,,Makueni,2017,1
+county,10,,Marsabit,2016,0
+county,10,,Marsabit,2017,1
+county,12,,Meru,2016,2
+county,12,,Meru,2017,3
+county,1,,Mombasa,2016,0
+county,1,,Mombasa,2017,1
+county,21,,Murang'a,2016,1
+county,21,,Murang'a,2017,0
+county,47,,Nairobi,2016,3
+county,47,,Nairobi,2017,8
+county,32,,Nakuru,2016,4
+county,32,,Nakuru,2017,4
+county,6,,Taita-Taveta,2016,4
+county,6,,Taita-Taveta,2017,2
+county,26,,Trans Nzoia,2016,12
+county,26,,Trans Nzoia,2017,0
+county,27,,Uasin Gishu,2016,2
+county,27,,Uasin Gishu,2017,1
+county,38,,Vihiga,2016,2
+county,38,,Vihiga,2017,0

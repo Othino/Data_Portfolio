@@ -1,0 +1,294 @@
+,,,,,,
+"Population Distribution, 2017",,,,,,
+"Statistical Abstract, 2018",,,,,,
+https://www.knbs.or.ke/download/statistics-abstract-2018/,,,,,,
+,,,,,,
+geo_level,geo_code,geo_version,county,year,gender,total
+county,30,,Baringo,2009,Female,276421
+county,30,,Baringo,2009,Male,279020
+county,30,,Baringo,2009,Total,555441
+county,30,,Baringo,2017,Female,363991
+county,30,,Baringo,2017,Male,364728
+county,30,,Baringo,2017,Total,728720
+county,36,,Bomet,2009,Female,448795
+county,36,,Bomet,2009,Male,442595
+county,36,,Bomet,2009,Total,891390
+county,36,,Bomet,2017,Female,463957
+county,36,,Bomet,2017,Male,475916
+county,36,,Bomet,2017,Total,939895
+county,39,,Bungoma,2009,Female,703255
+county,39,,Bungoma,2009,Male,671222
+county,39,,Bungoma,2009,Total,1374477
+county,39,,Bungoma,2017,Female,799977
+county,39,,Bungoma,2017,Male,780621
+county,39,,Bungoma,2017,Total,1580476
+county,40,,Busia,2009,Female,387658
+county,40,,Busia,2009,Male,355934
+county,40,,Busia,2009,Total,743592
+county,40,,Busia,2017,Female,440974
+county,40,,Busia,2017,Male,413946
+county,40,,Busia,2017,Total,855038
+county,28,,Elgeyo-Marakwet,2009,Female,186212
+county,28,,Elgeyo-Marakwet,2009,Male,183690
+county,28,,Elgeyo-Marakwet,2009,Total,369902
+county,28,,Elgeyo-Marakwet,2017,Female,244906
+county,28,,Elgeyo-Marakwet,2017,Male,240620
+county,28,,Elgeyo-Marakwet,2017,Total,485526
+county,14,,Embu,2009,Female,261795
+county,14,,Embu,2009,Male,254164
+county,14,,Embu,2009,Total,515959
+county,14,,Embu,2017,Female,283014
+county,14,,Embu,2017,Male,282544
+county,14,,Embu,2017,Total,565559
+county,7,,Garissa,2009,Female,288119
+county,7,,Garissa,2009,Male,334941
+county,7,,Garissa,2009,Total,623060
+county,7,,Garissa,2017,Female,288119
+county,7,,Garissa,2017,Male,334941
+county,7,,Garissa,2017,Total,623060
+county,43,,Homa Bay,2009,Female,501174
+county,43,,Homa Bay,2009,Male,462267
+county,43,,Homa Bay,2009,Total,963441
+county,43,,Homa Bay,2017,Female,596642
+county,43,,Homa Bay,2017,Male,554229
+county,43,,Homa Bay,2017,Total,1150871
+county,11,,Isiolo,2009,Female,69573
+county,11,,Isiolo,2009,Male,73638
+county,11,,Isiolo,2009,Total,143211
+county,11,,Isiolo,2017,Female,75210
+county,11,,Isiolo,2017,Male,81872
+county,11,,Isiolo,2017,Total,157082
+county,34,,Kajiado,2009,Female,342010
+county,34,,Kajiado,2009,Male,344982
+county,34,,Kajiado,2009,Total,686992
+county,34,,Kajiado,2017,Female,448399
+county,34,,Kajiado,2017,Male,453303
+county,34,,Kajiado,2017,Total,901702
+county,37,,Kakamega,2009,Female,879292
+county,37,,Kakamega,2009,Male,819284
+county,37,,Kakamega,2009,Total,1698576
+county,37,,Kakamega,2017,Female,977982
+county,37,,Kakamega,2017,Male,930327
+county,37,,Kakamega,2017,Total,1908309
+country,KE,,Kenya,2009,Female,19435322
+country,KE,,Kenya,2009,Male,19206327
+country,KE,,Kenya,2009,Total,38641649
+country,KE,,Kenya,2017,Female,23608248
+country,KE,,Kenya,2017,Male,23398547
+country,KE,,Kenya,2017,Total,47006641
+county,35,,Kericho,2009,Female,291668
+county,35,,Kericho,2009,Male,298703
+county,35,,Kericho,2009,Total,590371
+county,35,,Kericho,2017,Female,473590
+county,35,,Kericho,2017,Male,496294
+county,35,,Kericho,2017,Total,969713
+county,22,,Kiambu,2009,Female,820291
+county,22,,Kiambu,2009,Male,802072
+county,22,,Kiambu,2009,Total,1622363
+county,22,,Kiambu,2017,Female,944585
+county,22,,Kiambu,2017,Male,960525
+county,22,,Kiambu,2017,Total,1905110
+county,3,,Kilifi,2009,Female,573739
+county,3,,Kilifi,2009,Male,535031
+county,3,,Kilifi,2009,Total,1108770
+county,3,,Kilifi,2017,Female,751501
+county,3,,Kilifi,2017,Male,696169
+county,3,,Kilifi,2017,Total,1447670
+county,20,,Kirinyaga,2009,Female,267344
+county,20,,Kirinyaga,2009,Male,260536
+county,20,,Kirinyaga,2009,Total,527880
+county,20,,Kirinyaga,2017,Female,308306
+county,20,,Kirinyaga,2017,Male,311591
+county,20,,Kirinyaga,2017,Total,619898
+county,45,,Kisii,2009,Female,601651
+county,45,,Kisii,2009,Male,550247
+county,45,,Kisii,2009,Total,1151898
+county,45,,Kisii,2017,Female,715882
+county,45,,Kisii,2017,Male,660091
+county,45,,Kisii,2017,Total,1375973
+county,42,,Kisumu,2009,Female,493964
+county,42,,Kisumu,2009,Male,474487
+county,42,,Kisumu,2009,Total,968451
+county,42,,Kisumu,2017,Female,585746
+county,42,,Kisumu,2017,Male,571274
+county,42,,Kisumu,2017,Total,1157020
+county,15,,Kitui,2009,Female,531198
+county,15,,Kitui,2009,Male,481038
+county,15,,Kitui,2009,Total,1012236
+county,15,,Kitui,2017,Female,574249
+county,15,,Kitui,2017,Male,534732
+county,15,,Kitui,2017,Total,1108981
+county,2,,Kwale,2009,Female,333754
+county,2,,Kwale,2009,Male,315834
+county,2,,Kwale,2009,Total,649588
+county,2,,Kwale,2017,Female,436967
+county,2,,Kwale,2017,Male,411182
+county,2,,Kwale,2017,Total,848149
+county,31,,Laikipia,2009,Female,200488
+county,31,,Laikipia,2009,Male,198504
+county,31,,Laikipia,2009,Total,398992
+county,31,,Laikipia,2017,Female,264051
+county,31,,Laikipia,2017,Male,259684
+county,31,,Laikipia,2017,Total,523735
+county,5,,Lamu,2009,Female,48481
+county,5,,Lamu,2009,Male,53002
+county,5,,Lamu,2009,Total,101483
+county,5,,Lamu,2017,Female,63491
+county,5,,Lamu,2017,Male,69033
+county,5,,Lamu,2017,Total,132523
+county,16,,Machakos,2009,Female,555088
+county,16,,Machakos,2009,Male,542728
+county,16,,Machakos,2009,Total,1097816
+county,16,,Machakos,2017,Female,600203
+county,16,,Machakos,2017,Male,603454
+county,16,,Machakos,2017,Total,1203657
+county,17,,Makueni,2009,Female,453691
+county,17,,Makueni,2009,Male,430567
+county,17,,Makueni,2009,Total,884258
+county,17,,Makueni,2017,Female,490385
+county,17,,Makueni,2017,Male,478540
+county,17,,Makueni,2017,Total,968925
+county,9,,Mandera,2009,Female,465818
+county,9,,Mandera,2009,Male,559938
+county,9,,Mandera,2009,Total,1025756
+county,9,,Mandera,2017,Female,465818
+county,9,,Mandera,2017,Male,559938
+county,9,,Mandera,2017,Total,1025756
+county,10,,Marsabit,2009,Female,140017
+county,10,,Marsabit,2009,Male,151058
+county,10,,Marsabit,2009,Total,291075
+county,10,,Marsabit,2017,Female,151344
+county,10,,Marsabit,2017,Male,167889
+county,10,,Marsabit,2017,Total,319234
+county,12,,Meru,2009,Female,685249
+county,12,,Meru,2009,Male,670110
+county,12,,Meru,2009,Total,1355359
+county,12,,Meru,2017,Female,740891
+county,12,,Meru,2017,Male,745134
+county,12,,Meru,2017,Total,1486025
+county,44,,Migori,2009,Female,472568
+county,44,,Migori,2009,Male,444097
+county,44,,Migori,2009,Total,916665
+county,44,,Migori,2017,Female,562380
+county,44,,Migori,2017,Male,532858
+county,44,,Migori,2017,Total,1095238
+county,1,,Mombasa,2009,Female,452109
+county,1,,Mombasa,2009,Male,486391
+county,1,,Mombasa,2009,Total,938500
+county,1,,Mombasa,2017,Female,589760
+county,1,,Mombasa,2017,Male,635603
+county,1,,Mombasa,2017,Total,1225363
+county,21,,Murang'a,2009,Female,484501
+county,21,,Murang'a,2009,Male,457600
+county,21,,Murang'a,2009,Total,942101
+county,21,,Murang'a,2017,Female,561134
+county,21,,Murang'a,2017,Male,545177
+county,21,,Murang'a,2017,Total,1106312
+county,47,,Nairobi,2009,Female,1531198
+county,47,,Nairobi,2009,Male,1603063
+county,47,,Nairobi,2009,Total,3134261
+county,47,,Nairobi,2017,Female,2390394
+county,47,,Nairobi,2017,Male,2306880
+county,47,,Nairobi,2017,Total,4697274
+county,32,,Nakuru,2009,Female,798453
+county,32,,Nakuru,2009,Male,804183
+county,32,,Nakuru,2009,Total,1602636
+county,32,,Nakuru,2017,Female,1049120
+county,32,,Nakuru,2017,Male,1054389
+county,32,,Nakuru,2017,Total,2103510
+county,29,,Nandi,2009,Female,376336
+county,29,,Nandi,2009,Male,376329
+county,29,,Nandi,2009,Total,752665
+county,29,,Nandi,2017,Female,494634
+county,29,,Nandi,2017,Male,493335
+county,29,,Nandi,2017,Total,987969
+county,33,,Narok,2009,Female,421654
+county,33,,Narok,2009,Male,428638
+county,33,,Narok,2009,Total,850292
+county,33,,Narok,2017,Female,554485
+county,33,,Narok,2017,Male,561631
+county,33,,Narok,2017,Total,1116116
+county,46,,Nyamira,2009,Female,311096
+county,46,,Nyamira,2009,Male,286933
+county,46,,Nyamira,2009,Total,598029
+county,46,,Nyamira,2017,Female,370440
+county,46,,Nyamira,2017,Male,343958
+county,46,,Nyamira,2017,Total,714398
+county,18,,Nyandarua,2009,Female,304021
+county,18,,Nyandarua,2009,Male,292032
+county,18,,Nyandarua,2009,Total,596053
+county,18,,Nyandarua,2017,Female,352521
+county,18,,Nyandarua,2017,Male,347418
+county,18,,Nyandarua,2017,Total,699939
+county,19,,Nyeri,2009,Female,353735
+county,19,,Nyeri,2009,Male,339619
+county,19,,Nyeri,2009,Total,693354
+county,19,,Nyeri,2017,Female,409011
+county,19,,Nyeri,2017,Male,405195
+county,19,,Nyeri,2017,Total,814205
+county,25,,Samburu,2009,Female,111920
+county,25,,Samburu,2009,Male,111977
+county,25,,Samburu,2009,Total,223897
+county,25,,Samburu,2017,Female,147590
+county,25,,Samburu,2017,Male,146417
+county,25,,Samburu,2017,Total,294007
+county,41,,Siaya,2009,Female,443361
+county,41,,Siaya,2009,Male,398385
+county,41,,Siaya,2009,Total,841746
+county,41,,Siaya,2017,Female,528196
+county,41,,Siaya,2017,Male,477620
+county,41,,Siaya,2017,Total,1005816
+county,6,,Taita-Taveta,2009,Female,139266
+county,6,,Taita-Taveta,2009,Male,145250
+county,6,,Taita-Taveta,2009,Total,284516
+county,6,,Taita-Taveta,2017,Female,183197
+county,6,,Taita-Taveta,2017,Male,186310
+county,6,,Taita-Taveta,2017,Total,369507
+county,4,,Tana River,2009,Female,120190
+county,4,,Tana River,2009,Male,119818
+county,4,,Tana River,2009,Total,240008
+county,4,,Tana River,2017,Female,157282
+county,4,,Tana River,2017,Male,156092
+county,4,,Tana River,2017,Total,313374
+county,13,,Tharaka-Nithi,2009,Female,186806
+county,13,,Tharaka-Nithi,2009,Male,178336
+county,13,,Tharaka-Nithi,2009,Total,365142
+county,13,,Tharaka-Nithi,2017,Female,201943
+county,13,,Tharaka-Nithi,2017,Male,198268
+county,13,,Tharaka-Nithi,2017,Total,400211
+county,26,,Trans Nzoia,2009,Female,411486
+county,26,,Trans Nzoia,2009,Male,407053
+county,26,,Trans Nzoia,2009,Total,818539
+county,26,,Trans Nzoia,2017,Female,541384
+county,26,,Trans Nzoia,2017,Male,532979
+county,26,,Trans Nzoia,2017,Total,1074363
+county,23,,Turkana,2009,Female,410328
+county,23,,Turkana,2009,Male,445071
+county,23,,Turkana,2009,Total,855399
+county,23,,Turkana,2017,Female,410328
+county,23,,Turkana,2017,Male,445071
+county,23,,Turkana,2017,Total,855399
+county,27,,Uasin Gishu,2009,Female,444953
+county,27,,Uasin Gishu,2009,Male,448656
+county,27,,Uasin Gishu,2009,Total,893609
+county,27,,Uasin Gishu,2017,Female,583543
+county,27,,Uasin Gishu,2017,Male,589375
+county,27,,Uasin Gishu,2017,Total,1172918
+county,38,,Vihiga,2009,Female,298617
+county,38,,Vihiga,2009,Male,268770
+county,38,,Vihiga,2009,Total,567387
+county,38,,Vihiga,2017,Female,333189
+county,38,,Vihiga,2017,Male,304688
+county,38,,Vihiga,2017,Total,637877
+county,8,,Wajir,2009,Female,298166
+county,8,,Wajir,2009,Male,363775
+county,8,,Wajir,2009,Total,661941
+county,8,,Wajir,2017,Female,298166
+county,8,,Wajir,2017,Male,363775
+county,8,,Wajir,2017,Total,661941
+county,24,,West Pokot,2009,Female,257813
+county,24,,West Pokot,2009,Male,254759
+county,24,,West Pokot,2009,Total,512572
+county,24,,West Pokot,2017,Female,339369
+county,24,,West Pokot,2017,Male,332929
+county,24,,West Pokot,2017,Total,672298
